@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<Catalog>
+    <CSoundtrack id="KoboldMusicBoss">
+        <CueArray>
+            <MasterLayer Sound="KoboldMusicBoss"/>
+            <SlaveLayers/>
+            <SlaveLayers/>
+            <SlaveLayers/>
+            <SlaveLayers/>
+        </CueArray>
+    </CSoundtrack>
+    <CSoundtrack id="KoboldMusicDefeat">
+        <CueArray>
+            <MasterLayer Sound="KoboldMusicDefeat"/>
+            <SlaveLayers/>
+            <SlaveLayers/>
+            <SlaveLayers/>
+            <SlaveLayers/>
+        </CueArray>
+    </CSoundtrack>
+    <CSoundtrack id="KoboldMusicBossHeroicVictory">
+        <CueArray>
+            <MasterLayer Sound="KoboldMusicBossHeroicVictory"/>
+            <SlaveLayers/>
+            <SlaveLayers/>
+            <SlaveLayers/>
+            <SlaveLayers/>
+        </CueArray>
+        <Flags index="Continuous" value="0"/>
+    </CSoundtrack>
+    <CSoundtrack id="KoboldMusicBossHeroic">
+        <CueArray>
+            <MasterLayer Sound="KoboldMusicBossHeroic"/>
+            <SlaveLayers/>
+            <SlaveLayers/>
+            <SlaveLayers/>
+            <SlaveLayers/>
+        </CueArray>
+        <Flags index="Continuous" value="0"/>
+    </CSoundtrack>
+    <CSoundtrack id="KoboldMusicCrypt">
+        <CueArray>
+            <MasterLayer Sound="KoboldMusicCrypt"/>
+            <SlaveLayers/>
+            <SlaveLayers/>
+            <SlaveLayers/>
+            <SlaveLayers/>
+        </CueArray>
+    </CSoundtrack>
+    <CSoundtrack id="KoboldMusicPirate">
+        <CueArray>
+            <MasterLayer Sound="KoboldMusicPirate"/>
+            <SlaveLayers/>
+            <SlaveLayers/>
+            <SlaveLayers/>
+            <SlaveLayers/>
+        </CueArray>
+    </CSoundtrack>
+    <CSoundtrack id="KoboldMusicGloom">
+        <CueArray>
+            <MasterLayer Sound="KoboldMusicGloom"/>
+            <SlaveLayers/>
+            <SlaveLayers/>
+            <SlaveLayers/>
+            <SlaveLayers/>
+        </CueArray>
+    </CSoundtrack>
+    <CSoundtrack id="KoboldMusicTower">
+        <CueArray>
+            <MasterLayer Sound="KoboldMusicTower"/>
+            <SlaveLayers/>
+            <SlaveLayers/>
+            <SlaveLayers/>
+            <SlaveLayers/>
+        </CueArray>
+        <Flags index="Continuous" value="0"/>
+    </CSoundtrack>
+    <CSoundtrack id="KoboldMusicVictory">
+        <CueArray>
+            <MasterLayer Sound="KoboldMusicVictory"/>
+            <SlaveLayers/>
+            <SlaveLayers/>
+            <SlaveLayers/>
+            <SlaveLayers/>
+        </CueArray>
+    </CSoundtrack>
+    <CSoundtrack id="KoboldMusicDead">
+        <CueArray>
+            <MasterLayer Sound="KoboldMusicDead"/>
+            <SlaveLayers/>
+            <SlaveLayers/>
+            <SlaveLayers/>
+            <SlaveLayers/>
+        </CueArray>
+    </CSoundtrack>
+    <CSoundtrack id="KoboldMusicWinter">
+        <CueArray>
+            <MasterLayer Sound="KoboldMusicWinter"/>
+            <SlaveLayers/>
+            <SlaveLayers/>
+            <SlaveLayers/>
+            <SlaveLayers/>
+        </CueArray>
+    </CSoundtrack>
+    <CSoundtrack id="KoboldMusicAmbient">
+        <CueArray>
+            <MasterLayer Sound="KoboldMusicAmbient"/>
+            <SlaveLayers/>
+            <SlaveLayers/>
+            <SlaveLayers/>
+            <SlaveLayers/>
+        </CueArray>
+    </CSoundtrack>
+</Catalog>

@@ -1,0 +1,3 @@
+DocInfo/DescLong=Warcrafty music for kobolds or other little buggers.
+DocInfo/DescShort=Any
+DocInfo/Name=Kobold Music

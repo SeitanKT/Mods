@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Assets used for KT.
+DocInfo/DescShort=Any
+DocInfo/Name=Kobold Assets

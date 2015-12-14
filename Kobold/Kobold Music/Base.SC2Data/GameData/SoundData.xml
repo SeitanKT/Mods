@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<Catalog>
+    <CSound id="KoboldMusicAmbient" parent="MUSIC">
+        <AssetArray File="Music\Kobolds000.ogg" FacialGroup=""/>
+        <AssetArray File="Music\Kobolds001.ogg" FacialGroup=""/>
+        <AssetArray File="Music\Kobolds002.ogg" FacialGroup=""/>
+        <AssetArray File="Music\Kobolds003.ogg" FacialGroup=""/>
+        <AssetArray File="Music\Kobolds005.ogg" FacialGroup=""/>
+        <AssetArray File="Music\Kobolds006.ogg" FacialGroup=""/>
+        <AssetArray File="Music\Kobolds007.ogg" FacialGroup=""/>
+        <AssetArray File="Music\Kobolds008.ogg" FacialGroup=""/>
+        <AssetArray File="Music\Kobolds009.ogg" FacialGroup=""/>
+        <AssetArray File="Music\Kobolds010.ogg" FacialGroup=""/>
+        <AssetArray File="Music\Kobolds011.ogg" FacialGroup=""/>
+        <AssetArray File="Music\Kobolds012.ogg" FacialGroup=""/>
+        <AssetArray File="Music\Kobolds014.ogg" FacialGroup=""/>
+        <AssetArray File="Music\Kobolds017.ogg" FacialGroup=""/>
+        <AssetArray File="Music\Kobolds018.ogg" FacialGroup=""/>
+        <AssetArray File="Music\Kobolds019.ogg" FacialGroup=""/>
+        <AssetArray File="Music\Kobolds023.ogg" FacialGroup=""/>
+        <AssetArray File="Music\Kobolds025.ogg" FacialGroup=""/>
+        <AssetArray File="Music\Kobolds026.ogg" FacialGroup=""/>
+        <AssetArray File="Music\Kobolds027.ogg" FacialGroup=""/>
+        <AssetArray File="Music\Kobolds028.ogg" FacialGroup=""/>
+        <AssetArray File="Music\Kobolds031.ogg" FacialGroup=""/>
+        <AssetArray File="Music\Kobolds032.ogg" FacialGroup=""/>
+        <AssetArray File="Music\Kobolds033.ogg" FacialGroup=""/>
+        <AssetArray File="Music\Kobolds034.ogg" FacialGroup=""/>
+        <AssetArray File="Music\Kobolds035.ogg" FacialGroup=""/>
+        <AssetArray File="Music\Kobolds036.ogg" FacialGroup=""/>
+        <AssetArray File="Music\Kobolds037.ogg" FacialGroup=""/>
+        <AssetArray File="Music\Kobolds038.ogg" FacialGroup=""/>
+        <AssetArray File="Music\Kobolds039.ogg" FacialGroup=""/>
+        <AssetArray File="Music\Kobolds040.ogg" FacialGroup=""/>
+        <AssetArray File="Music\Kobolds041.ogg" FacialGroup=""/>
+        <AssetArray File="Music\Kobolds042.ogg" FacialGroup=""/>
+        <AssetArray File="Music\Kobolds043.ogg" FacialGroup=""/>
+        <AssetArray File="Music\KoboldsAmbience001.ogg" FacialGroup=""/>
+        <AssetArray File="Music\KoboldsAmbience003.ogg" FacialGroup=""/>
+        <AssetArray File="Music\KoboldsAmbience004.ogg" FacialGroup=""/>
+        <AssetArray File="Music\KoboldsAmbience005.ogg" FacialGroup=""/>
+        <AssetArray File="Music\KoboldsAmbience006.ogg" FacialGroup=""/>
+        <AssetArray File="Music\KoboldsAmbience008.ogg" FacialGroup=""/>
+        <AssetArray File="Music\KoboldsAmbience009.ogg" FacialGroup=""/>
+        <AssetArray File="Music\KoboldsAmbience010.ogg" FacialGroup=""/>
+        <AssetArray File="Music\KoboldsAmbience011.ogg" Pitch="1.000000,1.000000" FacialGroup=""/>
+        <AssetArray File="Music\KoboldsAmbience012.ogg" FacialGroup=""/>
+        <AssetArray File="Music\KoboldsAmbience013.ogg" FacialGroup=""/>
+        <AssetArray File="Music\KoboldsAmbience014.ogg" FacialGroup=""/>
+        <AssetArray File="Music\KoboldsAmbience015.ogg" FacialGroup=""/>
+        <AssetArray File="Music\KoboldsAmbience016.ogg" FacialGroup=""/>
+        <AssetArray File="Music\KoboldsAmbience017.ogg" FacialGroup=""/>
+        <AssetArray File="Music\KoboldsAmbience018.ogg" FacialGroup=""/>
+        <AssetArray File="Music\KoboldsAmbience019.ogg" FacialGroup=""/>
+        <AssetArray File="Music\KoboldsAmbience020.ogg" FacialGroup=""/>
+        <AssetArray File="Music\KoboldsAmbience022.ogg" FacialGroup=""/>
+        <AssetArray File="Music\KoboldsAmbience023.ogg" FacialGroup=""/>
+    </CSound>
+    <CSound id="KoboldMusicBossHeroicVictory" parent="MUSIC">
+        <AssetArray File="Music\KoboldsEvent002.ogg" Volume="5.000000,5.000000" FacialGroup=""/>
+    </CSound>
+    <CSound id="KoboldMusicCrypt" parent="MUSIC">
+        <AssetArray File="Music\KoboldsCrypt001.ogg" FacialGroup=""/>
+        <AssetArray File="Music\KoboldsCrypt002.ogg" FacialGroup=""/>
+        <AssetArray File="Music\KoboldsCrypt003.ogg" FacialGroup=""/>
+    </CSound>
+    <CSound id="KoboldMusicVictory" parent="MUSIC">
+        <AssetArray File="Music\Kobolds013.ogg" Volume="5.000000,5.000000" FacialGroup=""/>
+    </CSound>
+    <CSound id="KoboldMusicPirate" parent="MUSIC">
+        <AssetArray File="Music\KoboldsPirate001.ogg" FacialGroup=""/>
+        <AssetArray File="Music\KoboldsPirate002.ogg" FacialGroup=""/>
+        <AssetArray File="Music\KoboldsPirate003.ogg" FacialGroup=""/>
+    </CSound>
+    <CSound id="KoboldMusicBossHeroic" parent="MUSIC">
+        <AssetArray File="Music\KoboldsEpic001.ogg" Volume="5.000000,5.000000" FacialGroup=""/>
+    </CSound>
+    <CSound id="KoboldMusicDefeat" parent="MUSIC">
+        <AssetArray File="Music\Kobolds016.ogg" FacialGroup=""/>
+    </CSound>
+    <CSound id="KoboldMusicDead" parent="MUSIC">
+        <AssetArray File="Music\KoboldsEvent005.ogg" FacialGroup=""/>
+    </CSound>
+    <CSound id="KoboldMusicWinter" parent="MUSIC">
+        <AssetArray File="Music\KoboldsWinter001.ogg" FacialGroup=""/>
+        <AssetArray File="Music\KoboldsWinter002.ogg" FacialGroup=""/>
+        <AssetArray File="Music\KoboldsWinter003.ogg" FacialGroup=""/>
+        <AssetArray File="Music\KoboldsWinter004.ogg" FacialGroup=""/>
+        <AssetArray File="Music\KoboldsWinter005.ogg" FacialGroup=""/>
+    </CSound>
+    <CSound id="KoboldMusicGloom" parent="MUSIC">
+        <AssetArray File="Music\KoboldsGloom001.ogg" FacialGroup=""/>
+        <AssetArray File="Music\KoboldsGloom002.ogg" FacialGroup=""/>
+        <AssetArray File="Music\KoboldsGloom003.ogg" FacialGroup=""/>
+    </CSound>
+    <CSound id="KoboldMusicBoss" parent="MUSIC">
+        <AssetArray File="Music\KoboldsBoss01.ogg" FacialGroup=""/>
+        <AssetArray File="Music\KoboldsBoss02.ogg" FacialGroup=""/>
+    </CSound>
+    <CSound id="KoboldMusicTower" parent="MUSIC">
+        <AssetArray File="Music\KoboldsAmbience021.ogg" Volume="5.000000,5.000000" FacialGroup=""/>
+    </CSound>
+</Catalog>
